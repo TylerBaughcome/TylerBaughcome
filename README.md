@@ -4,7 +4,7 @@ I hope that I can contribute to the diverse and challenging realm of computation
 
 
 - 🔭 I’m currently a student at **Rensselaer Polytechnic Institute**
-- 🤔 Majoring in Computer Science (and hopefully Philosophy)
+- 🤔 Majoring in Computer Science
 - 📫 How to reach me: tbaughcome@gmail.com *or* baught@rpi.edu
 - 🎾⚽️ Tennis player & soccer fan <img src="https://cdn-icons-png.flaticon.com/512/738/738675.png" width = "20px">
 

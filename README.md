@@ -1,6 +1,6 @@
 ## Hello There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 My name is Tyler Baughcome. I've been programming for two years now, and I'll do just about anything if it is thought-provoking, meaningful, and builds something useful. 
-I hope that I can contribute to the diverse and challenging realm of computation/automation, and I am interested imost n projects that are geared towards sustainability, humanitarian causes, and the sciences.
+I hope that I can contribute to the diverse and challenging realm of computation/automation, and I am interested most in projects that are geared towards sustainability, humanitarian causes, and the sciences.
 
 
 - 🔭 I’m currently a student at **Rensselaer Polytechnic Institute**

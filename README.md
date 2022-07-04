@@ -1,12 +1,10 @@
 ## Hello There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-My name is Tyler Baughcome. I've been programming for two years now, and I'll do just about anything if it is thought-provoking, meaningful, and builds something useful. 
-I hope that I can contribute to the diverse and challenging realm of computation/automation, and I am interested most in projects that are geared towards sustainability, humanitarian causes, and the sciences.
-
+My name is Tyler Baughcome. I'm a motivated computer scientist with a strong desire to apply my skills where the world needs it. From climate change/sustainability to cybersecurity, I want my work to count. Please feel free to reach out with any concerns, e.g. help you could use on your project or anything else I can help you with.
 
 - 🔭 I’m currently a student at **Rensselaer Polytechnic Institute**
 - 🤔 Majoring in Computer Science
-- 📫 How to reach me: tbaughcome@gmail.com *or* baught@rpi.edu
-- 🎾⚽️ Tennis player & soccer fan <img src="https://cdn-icons-png.flaticon.com/512/738/738675.png" width = "20px">
+- 📫 How to reach me: tbaughcome@gmail.com
+- 🎾⚽️ Tennis player & soccer fan (Come on you Spurs! <img src="https://cdn-icons-png.flaticon.com/512/738/738675.png" width = "20px">)
 
 #### Top Technologies
 

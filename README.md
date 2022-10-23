@@ -4,7 +4,6 @@ My name is Tyler Baughcome. I'm a motivated computer scientist with a strong des
 - 🔭 I’m currently a student at **Rensselaer Polytechnic Institute**
 - 🤔 Majoring in Computer Science
 - 📫 How to reach me: tbaughcome@gmail.com
-- 🎾⚽️ Tennis player & soccer fan (Come on you Spurs! <img src="https://cdn-icons-png.flaticon.com/512/738/738675.png" width = "20px">)
 
 #### Top Technologies
 

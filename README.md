@@ -5,12 +5,6 @@ My name is Tyler, and I'm a software developer and computer scientist with exper
 - Majoring in Computer Science and Philosophy
 - How to reach me: tbaughcome@gmail.com
 
-#### Top Technologies
-
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![C++ Badge](https://img.shields.io/badge/-C++-ff69bf?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=ff69bf)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=lue)](#)
-
-
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerBaughcome.Tyler)

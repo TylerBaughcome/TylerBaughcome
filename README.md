@@ -1,4 +1,4 @@
-# Hello There <img src="https://thumbs.gfycat.com/SomeWelllitBantamrooster-max-1mb.gif" width="40px" height = "30px" alt="hi">
+# Hello There <img src="https://thumbs.gfycat.com/SomeWelllitBantamrooster-max-1mb.gif" width="128px" height = "72px" alt="hi">
 My name is Tyler, and I'm a computer science student with experience in machine learning (as it pertains to radio frequency analysis and image processing), web development, mobile development, and game development. Please feel free to reach out with any concerns, e.g. help you could use on your project or anything else with which I might be of assistance.
 
 - I’m currently a student at **Rensselaer Polytechnic Institute** majoring in Computer Science and Philosophy

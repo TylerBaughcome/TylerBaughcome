@@ -1,4 +1,4 @@
-# Hello There <img src="https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/06/Star-Wars-(1).jpg" width="200px" height = "100px" alt="hi">
+# Hello There
 My name is Tyler, and I'm a computer science student with experience in machine learning (as it pertains to radio frequency analysis and image processing), web development, mobile development, and game development. Please feel free to reach out with any concerns, e.g. help you could use on your project or anything else with which I might be of assistance.
 
 - I’m currently a student at **Rensselaer Polytechnic Institute** majoring in Computer Science and Philosophy
